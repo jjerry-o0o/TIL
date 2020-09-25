@@ -15,7 +15,7 @@
    - etc.
 ---
 > 코드_평균 구하기
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -36,7 +36,7 @@ public class Main {
 ```
 ---
 > 코드_아스키코드 출력
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -57,7 +57,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 + 반복문인 **for()** 문을 사용했다.
 ---
 > 코드_10진수,8진수,16진수
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -83,7 +83,7 @@ public class Main {
 + __\n__ 은 줄바꿈을 의미한다.
 ---
 > 코드_string의 substring 함수
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
