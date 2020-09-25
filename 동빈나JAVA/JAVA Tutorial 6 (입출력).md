@@ -1,5 +1,5 @@
 > 코드_입출력
-```
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -27,7 +27,7 @@ public class Main {
 + 끝에 **sc.close();** 를 넣어줌으로써 입출력 및 프로그램을 종료해준다.
 
 > 코드_file 입출력
-```
+```java
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
