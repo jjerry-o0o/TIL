@@ -1,7 +1,7 @@
 ### 동빈나 JAVA Tutorial - 1
 
 > 코드
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
