@@ -1,6 +1,6 @@
 ### 동빈나 JAVA Tutorial - 2
 > 코드_변수(Variable)_변할 수 있는 수
-```
+```java
 public class Main {
 	
 	public static void main(String[] args) {
@@ -33,7 +33,7 @@ Jerry
 ---
 > 코드_상수(Constant)_항상 같은 수
 >> 원의 넓이 구하기
-```
+```java
 public class Main {
 	
 	final static double PI = 3.141592;	
@@ -55,7 +55,7 @@ public class Main {
 + 상수는 __public static void main(String[] args)__ 메인함수 바깥에 선언
 ---
 > 코드_오버플로
-```
+```java
 public class Main {
 	
 	final static int INT_MAX = 2147483647;	
@@ -78,7 +78,7 @@ public class Main {
 + ex) 2147483647 + 8 = -2147483641
 ---
 > 코드_사칙연산
-```
+```java
 public class Main {
 		
 	public static void main(String[] args) {
@@ -107,7 +107,8 @@ a / b = 0
 + 나누기는 몫 만을 출력한다.
 ---
 > 코드_반올림
-```public class Main {
+```java
+public class Main {
 		
 	public static void main(String[] args) {
 		
