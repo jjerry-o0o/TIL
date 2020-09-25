@@ -6,7 +6,7 @@
 >>+ return i..?
 
 > 코드
-```
+```java
 public class Main {
 
 	public static int function(int number, int k) {
@@ -52,7 +52,7 @@ public class Main {
 >>+ 글자수 세는 변수를 만드나?
 
 > 코드
-```
+```java
 public class Main {
 
 	public static char function(String input) {
@@ -74,7 +74,7 @@ Hello World의 마지막 단어는 d
 + 위에서 -1을 한 이유는 **charAt** 함수가 문장을 0부터 세기 때문
 ---
 > 코드_가장 큰 값 구하기_max()함수 이용
-```
+```java
 public class Main {
 
 	public static int max(int a, int b) {
