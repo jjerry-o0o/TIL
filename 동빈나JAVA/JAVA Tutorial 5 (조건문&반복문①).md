@@ -1,6 +1,6 @@
 ### 동빈나 JAVA Tutorial - 5
 > 코드_특정 문자 찾기
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -28,7 +28,7 @@ I Hate You.
 + **contains** 함수는 a라는 변수가 특정문자를 포함하고 있는지 검사해주는 함수이다.(대소문자 구분)
 ---
 > 코드_학점
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -63,7 +63,7 @@ A+입니다.
 + **if, else if, else** 를 사용하는것을 **if문** 이라 한다
 ---
 > 코드_문자열,정수형 비교
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -112,7 +112,7 @@ public class Main {
 + **equalsIgnoreCase** 함수는 대소문자를 무시하고 비교해주는 함수이다.
 ---
 > 코드_while 반복문_1부터 1000까지 더하기
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -134,7 +134,7 @@ public class Main {
 + 초기화는 한줄에 같이 할 수도 있다.
 ---
 > 코드_for문_별찍기(삼각)
-```
+```java
 public class Main {
 
 	final static int N = 5;
@@ -167,7 +167,7 @@ public class Main {
 + **for(int j = i; j > 0; j--)** j값이 5일때 부터 반복하고 j가 0이 됐을때 반복문을 나와 **System.out.println();** 줄바꿈을 진행한 후 i--가 적용된 값 4부터 반복문이 진행된다.
 ---
 > 코드_별찍기(원)
-```
+```java
 public class Main {
 
 	final static int N = 4;
@@ -213,7 +213,7 @@ public class Main {
 + 이해가 안된다.
 ---
 > 코드_break문
-```
+```java
 public class Main {
 	
 	public static void main(String[] args) {
