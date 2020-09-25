@@ -1,6 +1,6 @@
 ### 동빈나 JAVA Tutorial - 4
 > 코드_몇분 몇초?
-```
+```java
 public class Main {
 
 	final static int SECOND = 1000;
@@ -23,7 +23,7 @@ public class Main {
 + second 는 % 연산자를 사용해 나머지 값을 갖는다.
 ---
 > 코드_증감연산자
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -50,7 +50,7 @@ public class Main {
 + a++은 a값을 출력하고 난 뒤에 +1이 됩니다.
 ---
 >코드_==,>,<,&&,||,! 연산자
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -77,7 +77,7 @@ a가 50이 아닌가요? false
 + 각 연산마다 괄호로 묶어줘야 한다.
 ---
 > 코드_3항 연산자 (조건 ? 참 : 거짓)
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -106,7 +106,7 @@ public class Main {
 + static은 클래스 전반적으로 사용되는 함수로 메인 메소드에서 max함수를 사용하기 위해선 앞에 static을 붙혀줘야한다.
 ---
 > 코드_pow()_거듭제곱 연산자
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -126,7 +126,7 @@ public class Main {
 + **(int)** 로 인해 값은 정수형으로 변환되어 출력된다.
 ---
 > 코드_+= 연산자
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
