@@ -1,5 +1,5 @@
 > 코드_이름출력
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -16,7 +16,7 @@ Jerry
 ```
 ---
 > 코드_연산자
-```
+```java
 public class Main {
 
 	public static void main(String[] args) {
@@ -41,7 +41,7 @@ public class Main {
 ```
 ---
 > 코드_별찍기 네모네모(Jerry ver.)
-```
+```java
 public class Main {
 
 	final static int N = 5;
@@ -83,7 +83,7 @@ public class Main {
 ---
 
 > 코드_별찍기 네모네모(동빈나 ver.)
-```
+```java
 public class Main {
 	
 	public static void main(String[] args) {
