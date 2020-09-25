@@ -1,6 +1,6 @@
 > 문제_팩토리얼 구하는 함수
 >> 혼자 생각해보기
-```
+```java
 public class Main {
 
 	public static int factorial(int n) {
@@ -18,7 +18,7 @@ public class Main {
 + 뭔가 여기서 이렇게저렇게 하나만 고치면 될 것 같은데 잘 모르겠다.
 ---
 > 코딩
-```
+```java
 public class Main {
 
 	public static int factorial(int number) {
@@ -47,7 +47,7 @@ public class Main {
 + sum 변수를 만들어 i와 연산하는 것. 똑똑하다.
 ---
 > 코드_재귀함수 (함수 안에 자기 함수가 또 들어가 있는것)
-```
+```java
 public class Main {
 
 	public static int factorial(int number) {
