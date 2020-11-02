@@ -127,3 +127,6 @@ public class Main {
 - 에러유형 **'The type java.lang.Object cannot be resolved. it is indirectly referenced from required. class files**
   - 구글에 찾아보니 컴파일 환경이 잡히지 않아서...? Java Build Path 에 들어가서 jr 어쩌구의 위치를 잘 잡아줘야 하는 것 같다.
   - 근데 나도 하려구 했는데 적용이 안된다!!! 
+---
+- 위에 에러 고쳤는데 이젠 다른게 안된다.
+  - java.lang.ClaxxNotFoundException 아니 사람들이 고치라는 방법 다해봤는데도 오류가 안고쳐진다;
