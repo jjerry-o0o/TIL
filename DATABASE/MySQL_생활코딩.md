@@ -28,7 +28,7 @@ mysql> SHOW DATABASES;
 + 스키마를 보여지게 하는 명령어
 + DATABASES 로 복수형으로 적어준다
 + 아주 귀여운 표가 출력되는데 ...
-
++ ![.mysql](./DATABASE/2020-11-08 mysql.png)
 ---
 
 ```
