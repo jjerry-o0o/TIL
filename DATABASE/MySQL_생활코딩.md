@@ -1,3 +1,8 @@
+### DATABASE - MySQL
++ 데이터를 관리해주는 프로그램을 데이터베이스라 한다.
++ 데이터베이스에는 관계형과 관계형이 아닌 그외 많은 것들이 있다.
++ SQL (Structured Query Language)
+
 ```
 mysql> -uroot -p
 ```
