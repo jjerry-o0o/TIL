@@ -29,6 +29,7 @@ mysql> SHOW DATABASES;
 + DATABASES 로 복수형으로 적어준다
 + 아주 귀여운 표가 출력되는데 ...
 + ![.mysql](./DATABASE/2020-11-08 mysql.png)
+++ 왜 나는 이미지 첨부가 안되는 걸까! ㅠ
 ---
 
 ```
