@@ -41,3 +41,26 @@ mysql> SHOW DATABASES;
 mysql> USE opentutorials;
 ```
 + 표를 사용하기 위한 명령어
+---
+
+2020.11.09
+```
+$ mysql -uroot
+mysql> USE opentutorials;
+mysql> CREATE TABLE topic(
+        id INT(11) NOT NULL AUTO_INCREMENT,   //c1 datatype(lenth) 의 형식으로 입력.
+        title VARCHAR(100) NOT NULL,
+        description TEXT NULL,
+        created DATETIME NOT NULL,
+        author VARCHAR(30) NULL,
+        profile VARCHAR(100) NULL,
+        PRIMARY KEY(id));
+```
++ topic 이라는 이름의 테이블을 만든다
++ c1 datatype(lenth) 라는 형식으로 column(열,세로행)을 만들어준다.
+  + c1 = 행의 이름 / datatype = 문자(TEXT,CHAR),정수(INT) 등 / (lenth) = 화면에 보여질 값의 길이
++ NOT NULL = 공백이 없게 한다. 는 것으로 꼭 값을 넣어야 되는 것을 뜻함
+  + NULL = 공백 허용
++ AUTO_INCREMENT = 자동으로 id 값이 +1 되게 하는 것
++ PRIMARY KEY(id) = topic 이라는 테이블의 id 값이 메인키라는 것을 알려준다.
+  + ex)각각의 행을 식별해야 할 때  id 값이 중복 되어지는 것을 막아준다.
